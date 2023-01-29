@@ -13,8 +13,8 @@ inputs:
     required: false
   MAX_LINES:
     description: "The maximum number of lines populated in your readme file"
-    default: 5
-    required: false
+    default: 15
+    required: true
 
 branding:
   color: yellow
